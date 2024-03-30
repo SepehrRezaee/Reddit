@@ -68,5 +68,5 @@ The Reddit-Inspired Community Platform is an online community application develo
 ## Contact Information 📬
 
 For questions or support, feel free to reach out:
-- Email: your@email.com
-- GitHub: YourGitHubUsername
+- Email: sepehrrezaee2002@gmail.com
+- GitHub: @SepehrRezaee
