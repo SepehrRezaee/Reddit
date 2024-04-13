@@ -48,7 +48,8 @@ The Reddit-Inspired Community Platform is a comprehensive Java application desig
 
 ## Demo/GIFs/Images 📸
 
-*(Insert relevant GIFs, screenshots, or demo videos of the application in action)*
+![The Reddit](https://github.com/SepehrRezaee/Reddit/edit/develop/reddit.gif)
+
 
 ## Credits 🙌
 
